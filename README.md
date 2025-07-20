@@ -142,3 +142,9 @@ pip install -r requirements.txt
 - **Data-Driven Decisions:** Actionable insights for business growth
 
 ---
+## 👤 Author
+
+**Developed by:**  
+- Sankalp Tiwari  
+- [LinkedIn](www.linkedin.com/in/sankalp-tiwari-350545203)  
+- [GitHub](https://github.com/Sankalp-Dev06)
